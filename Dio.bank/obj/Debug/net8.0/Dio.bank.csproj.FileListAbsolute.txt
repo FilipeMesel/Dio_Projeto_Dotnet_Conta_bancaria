@@ -1,0 +1,15 @@
+C:\Users\Felipi Mesel\Documents\CSHARP\Dio_Projeto_Dotnet_Conta_bancaria\Dio.bank\bin\Debug\net8.0\Dio.bank.exe
+C:\Users\Felipi Mesel\Documents\CSHARP\Dio_Projeto_Dotnet_Conta_bancaria\Dio.bank\bin\Debug\net8.0\Dio.bank.deps.json
+C:\Users\Felipi Mesel\Documents\CSHARP\Dio_Projeto_Dotnet_Conta_bancaria\Dio.bank\bin\Debug\net8.0\Dio.bank.runtimeconfig.json
+C:\Users\Felipi Mesel\Documents\CSHARP\Dio_Projeto_Dotnet_Conta_bancaria\Dio.bank\bin\Debug\net8.0\Dio.bank.dll
+C:\Users\Felipi Mesel\Documents\CSHARP\Dio_Projeto_Dotnet_Conta_bancaria\Dio.bank\bin\Debug\net8.0\Dio.bank.pdb
+C:\Users\Felipi Mesel\Documents\CSHARP\Dio_Projeto_Dotnet_Conta_bancaria\Dio.bank\obj\Debug\net8.0\Dio.bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipi Mesel\Documents\CSHARP\Dio_Projeto_Dotnet_Conta_bancaria\Dio.bank\obj\Debug\net8.0\Dio.bank.AssemblyInfoInputs.cache
+C:\Users\Felipi Mesel\Documents\CSHARP\Dio_Projeto_Dotnet_Conta_bancaria\Dio.bank\obj\Debug\net8.0\Dio.bank.AssemblyInfo.cs
+C:\Users\Felipi Mesel\Documents\CSHARP\Dio_Projeto_Dotnet_Conta_bancaria\Dio.bank\obj\Debug\net8.0\Dio.bank.csproj.CoreCompileInputs.cache
+C:\Users\Felipi Mesel\Documents\CSHARP\Dio_Projeto_Dotnet_Conta_bancaria\Dio.bank\obj\Debug\net8.0\Dio.bank.sourcelink.json
+C:\Users\Felipi Mesel\Documents\CSHARP\Dio_Projeto_Dotnet_Conta_bancaria\Dio.bank\obj\Debug\net8.0\Dio.bank.dll
+C:\Users\Felipi Mesel\Documents\CSHARP\Dio_Projeto_Dotnet_Conta_bancaria\Dio.bank\obj\Debug\net8.0\refint\Dio.bank.dll
+C:\Users\Felipi Mesel\Documents\CSHARP\Dio_Projeto_Dotnet_Conta_bancaria\Dio.bank\obj\Debug\net8.0\Dio.bank.pdb
+C:\Users\Felipi Mesel\Documents\CSHARP\Dio_Projeto_Dotnet_Conta_bancaria\Dio.bank\obj\Debug\net8.0\Dio.bank.genruntimeconfig.cache
+C:\Users\Felipi Mesel\Documents\CSHARP\Dio_Projeto_Dotnet_Conta_bancaria\Dio.bank\obj\Debug\net8.0\ref\Dio.bank.dll
